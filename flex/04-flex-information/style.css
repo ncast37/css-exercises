@@ -26,6 +26,8 @@ main {
   flex-direction: row;
   justify-content: space-around;
   gap: 52px;
+  margin-left:25px;
+  margin-right: 25px;
 
 }
 
